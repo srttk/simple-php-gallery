@@ -25,7 +25,7 @@ if(isset($_GET['del']))
 ?>
 <html>
 <head>
-	<title>Login</title>
+	<title>Simple PHP Gallery</title>
 <style type="text/css">
 *{
 	font-family: Helvetica;
