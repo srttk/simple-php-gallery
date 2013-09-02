@@ -35,7 +35,7 @@ body{
 	margin: 0;
 	background: #cccccc;
 }
-	.login{
+	.gallery{
 		margin: auto;
 		width:700px;
 		margin-top:60px;
@@ -44,7 +44,7 @@ body{
 		padding: 5px;
 		border-radius: 10px;
 	}
-	.login label{
+	.gallery label{
 		display: block;
 	}
 	fieldset{
@@ -76,7 +76,7 @@ body{
 </style>
 </head>
 <body>
-<div class="login">
+<div class="gallery">
 	<h3>My Gallery</h3>
 <?php if(isset($message)) echo $message; ?>
 <ul>
