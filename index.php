@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <?php
 if(isset($_FILES['userfile']))
 {
@@ -25,6 +24,7 @@ if(isset($_GET['del']))
 //End Deleting image
 
 ?>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>Simple PHP Gallery</title>
