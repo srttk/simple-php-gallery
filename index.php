@@ -10,6 +10,7 @@ if(isset($_FILES['userfile']))
 		}
 	}
 }
+//For deleting image
 if(isset($_GET['del']))
 	{
 
@@ -21,6 +22,7 @@ if(isset($_GET['del']))
 		}
 		endif;
 	}
+//End Deleting image
 
 ?>
 <html>
