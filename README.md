@@ -1,4 +1,4 @@
 simple-php-gallery
 ==================
 
-A Simple Gallery Script
+A Simple PHP Photo Gallery Script. Scan a image folder and display imges. No database needed. SIMPLE!!
