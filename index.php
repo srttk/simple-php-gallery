@@ -79,7 +79,7 @@ body{
 </head>
 <body>
 <div class="gallery">
-	<h3>My Gallery</h3>
+	<h3>My photo Gallery</h3>
 <?php if(isset($message)) echo $message; ?>
 <ul>
 <?php 
