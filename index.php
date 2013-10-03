@@ -1,4 +1,7 @@
 <?php
+/*
+Author	:	Sarath
+*/
 if(isset($_FILES['userfile']))
 {
 	if($_FILES['userfile']['type']=="image/jpeg")
