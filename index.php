@@ -2,6 +2,7 @@
 /*
 * Simple php gallery
 * Author	:	Sarath
+* http://github.com/saratonite
 */
 if(isset($_FILES['userfile']))
 {
