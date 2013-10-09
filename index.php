@@ -1,6 +1,7 @@
 <?php
 /*
-Author	:	Sarath
+* Simple php gallery
+* Author	:	Sarath
 */
 if(isset($_FILES['userfile']))
 {
